@@ -1,0 +1,5 @@
+# virtual env
+venv
+
+strafe/__pycache__
+strafe/test.db
